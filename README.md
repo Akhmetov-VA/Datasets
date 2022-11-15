@@ -1,2 +1,2 @@
 # Datasets
-Collection of datasets for work
+Collection of datasets for AutoML testing
